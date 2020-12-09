@@ -1,4 +1,4 @@
-# fe-knowledge
+# FE-Knowledge
 > 前端知识汇总
 
 ## `html` 部分
